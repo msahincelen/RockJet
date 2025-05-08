@@ -1,8 +1,8 @@
 # RockJet
 Its Fuel Is the Sky Itself
-[url=https://hizliresim.com/djvmnbi][img]https://i.hizliresim.com/djvmnbi.png[/img][/url]
-[url=https://hizliresim.com/2hx557q][img]https://i.hizliresim.com/2hx557q.png[/img][/url]
-[url=https://hizliresim.com/bn9d3z0][img]https://i.hizliresim.com/bn9d3z0.png[/img][/url]
+https://hizliresim.com/djvmnbi
+https://hizliresim.com/2hx557q
+https://hizliresim.com/bn9d3z0
 RockJet: Terimler Sözlüğü, Kavramsal İsimler ve Sistem Şeması
 
 ## Kavramsal İsimler ve Açıklamaları
